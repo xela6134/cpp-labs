@@ -9,3 +9,4 @@ include_directories(data_structures)
 
 # Leetcode
 add_executable(decltype src/decltype.cpp)
+add_executable(namespace src/namespace.cpp)
